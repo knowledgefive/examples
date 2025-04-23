@@ -2,7 +2,7 @@
 import os
 
 # define a folder path
-folder_path = "test"
+folder_path = "sample_data"
 
 # check to make sure the folder path exists
 if not os.path.exists(folder_path):
